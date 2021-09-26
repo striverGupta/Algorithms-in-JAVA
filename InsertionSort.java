@@ -1,6 +1,6 @@
 package practice;
 
-//this is insertion sort
+
 public class InsertionSort {
 	public void sort(int[] a) {
 		
